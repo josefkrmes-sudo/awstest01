@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="4.0.0-preview.4" />
+    <PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="4.0.3.14" />
     <PackageReference Include="AWSSDK.RDS" Version="4.0.0-preview.4" />
     <PackageReference Include="AWSSDK.RDSDataService" Version="4.0.0-preview.4" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.0" />
