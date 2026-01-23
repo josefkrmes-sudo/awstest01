@@ -32,7 +32,7 @@ try {
     $sent = $result["SentLast24Hours"];
     $available = $send_limit - $sent;
     print("<p>You can send " . $available . " more messages in the next 24 hours.</p>");
-    var_dump($result);
+    
 } catch (AwsException $e) {
     // output error message if fails
     echo $e->getMessage();
