@@ -3,3 +3,4 @@ cassandra-driver>=3.25.0
 cassandra-sigv4>=4.0.2
 pytest>=7.2.1
 requests>=2.28.2
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
