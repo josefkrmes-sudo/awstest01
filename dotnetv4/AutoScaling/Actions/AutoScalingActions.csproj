@@ -10,7 +10,7 @@
   <ItemGroup>
     <PackageReference Include="AWSSDK.AutoScaling" Version="4.0.0-preview.4" />
     <PackageReference Include="AWSSDK.CloudWatch" Version="4.0.0-preview.4" />
-    <PackageReference Include="AWSSDK.Core" Version="4.0.0-preview.4" />
+    <PackageReference Include="AWSSDK.Core" Version="4.0.3.3" />
     <PackageReference Include="AWSSDK.EC2" Version="4.0.0-preview.4" />
     <PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="4.0.0-preview.4" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.0" />
