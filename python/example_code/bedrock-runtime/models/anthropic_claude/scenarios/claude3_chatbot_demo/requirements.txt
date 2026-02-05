@@ -7,3 +7,4 @@ unstructured[pdf]
 langchain-community
 pytz
 anthropic
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
